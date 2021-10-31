@@ -1,9 +1,8 @@
 ## About 
-I'm Surmud Jamil and I am a senior year computer science undergrad at the University of Maryland. Some things I'm interested in are software engineering, data science, and machine learning. Since you're already stalking my github profile, you might as well take a look at some of my projects below and give me some feedback. If you'd like to reach out to me, you can always connect with me on Linkedin at www.linkedin.com/in/surmud
+I'm Surmud Jamil and I am a senior year computer science undergrad at the University of Maryland. Some things I'm interested in are software engineering, data science, and machine learning. Since you're already stalking my github profile, you might as well take a look at some of my projects below and give me some feedback. If you'd like to reach out to me, you can always connect with me at www.linkedin.com/in/surmud
 
 
-## Projects 
-
+## Projects
 ### NBA Hall of Fame Predictor
 My group and I used basketball statistics to predict NBA Hall of Famers with 85% accuracy. Are hall of famers more physical than today's players? Do today's players shoot more? We answer these questions in our jupyter notebook. To do this project, we needed to parse, scrape, and clean NBA basketball data from several different sources to be able to conduct our analysis. 
 - Check out published notebook at https://surmud.github.io/NBA-Hall-of-fame-predictor/ 
@@ -22,7 +21,7 @@ Ever had a terrible landlord? This is your chance to vent. This is a web applica
 
 
 ### Eigenface Recognition
-In this project, my teammate and I implemented principal component analysis, which is a dimensionality reduction technique used in machine learning, to recognize images of faces with over 85% accuracy. We followed a case study based on an academic paper written by Turk and Pentland at https://www.face-rec.org/algorithms/PCA/jcn.pdf. This project was very math-heavy and required us to implement a lot of linear algebra in python to be able to be able to algorithm properly.
+In this project, my teammate and I implemented principal component analysis, which is a dimensionality reduction technique used in machine learning, to recognize images of faces with over 85% accuracy. We followed a case study based on an academic paper written by Turk and Pentland at https://www.face-rec.org/algorithms/PCA/jcn.pdf. This project was very math-heavy and required us to implement a lot of linear algebra in python, but we were able to gain a lot of valuable experience with the numpy library by doing this.
 
 Note: This repository is private since it was a course project. Contact me if you'd like to see it. 
 - https://github.com/surmud/Eigenface_Recognition

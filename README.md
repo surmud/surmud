@@ -3,6 +3,12 @@ I'm Surmud Jamil and I am a senior year computer science undergrad at the Univer
 
 
 ## Projects
+
+### Jupiter: UMD Schedule Builder
+
+Jupiter is a schedule builder for UMD students that intelligently generates and ranks potential schedules based on professor ratings and average GPA, while also removing duplicates, and ensuring that there are no time conflicts. Our application was developed specifically for a mobile device because it allows Apple Calendar synchronization, which means that the Jupiter will automatically sync a potential schedule with the user’s iPhone calendar. Once the user syncs a schedule, their calendar will have recurring meetings set up every single day for each course they selected at their proper time until the end of the semester.
+- Check out the repository at https://github.com/surmud/jupiter
+
 ### NBA Hall of Fame Predictor
 My friends and I used basketball statistics to predict NBA Hall of Famers with 85% accuracy. Are hall of famers more physical than today's players? Do today's players shoot more? We answer these questions in our jupyter notebook. To do this project, we needed to parse, scrape, and clean NBA basketball data from several different sources to be able to conduct our analysis. 
 - Check out published notebook at https://surmud.github.io/NBA-Hall-of-fame-predictor/ 

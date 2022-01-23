@@ -15,15 +15,11 @@ My friends and I used basketball statistics to predict NBA Hall of Famers with 8
 - Check out the repository at https://github.com/surmud/NBA-Hall-of-fame-predictor
 
 
-![Hall of Fame](hof_img.png)
-
 ### Rate My UMD Landlord
 Ever had a terrible landlord? This is your chance to vent. This is a web application that I was able to develop using the flask framework in python. It allows users to register, log in, and post reviews and ratings of their landlord. This application was deployed to the Heroku cloud platform as the final project of my python development class. We never really advertised this application, which is why there are only fake reviews posted on the site currently. In this project we needed to create both a front end and a backend for our flask application. Our application's data is stored in a MongoDB cloud database.
 
 - Repository: https://github.com/surmud/rate-my-umd-landlord
 - Web Application: https://ratemyumdlandlord.herokuapp.com
-
-![landlord](landlord.png)
 
 
 ### Eigenface Recognition
@@ -32,7 +28,6 @@ In this project, my teammate and I implemented principal component analysis, whi
 Note: This repository is private since it was a course project. Contact me if you'd like to see it. 
 - https://github.com/surmud/Eigenface_Recognition
 
-![Eigenfaces](eigenfaces.png)
 
 
 

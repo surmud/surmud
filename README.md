@@ -1,5 +1,5 @@
 ## About 
-I'm Surmud Jamil and I am a senior year computer science undergrad at the University of Maryland. Some things I'm interested in are software engineering, data science, and machine learning. If you'd like to reach out to me, you can always connect with me at www.linkedin.com/in/surmud
+I'm Surmud, a software engineer. Some things I'm interested in are software engineering, data science, and machine learning. If you'd like to reach out to me, you can always connect with me at www.linkedin.com/in/surmud
 
 
 ## Projects

@@ -1,6 +1,5 @@
 ## About 
-I'm Surmud, a software engineer. Some things I'm interested in are software engineering, data science, and machine learning. If you'd like to reach out to me, you can always connect with me at www.linkedin.com/in/surmud
-
+I'm Surmud Jamil, a software engineer. Feel free to connect with me on linkedin: https://linkedin.com/surmud
 
 ## Projects
 

@@ -1,5 +1,5 @@
 ## About 
-I'm Surmud Jamil, a software engineer. Feel free to connect with me on linkedin: https://linkedin.com/surmud
+I'm Surmud Jamil, a software engineer. Feel free to connect with me on linkedin: https://linkedin.com/in/surmud
 
 ## Projects
 

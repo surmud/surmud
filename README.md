@@ -3,6 +3,10 @@ I'm Surmud Jamil, a software engineer. Feel free to connect with me on linkedin:
 
 ## Projects
 
+### Strava 
+Played around with an LLM / jupyter to analyze my strava data training for both the New York City / Tokyo Marathons!
+https://github.com/surmud/strava/blob/main/ANALYSIS_FINDINGS.md 
+
 ### Jupiter: UMD Schedule Builder
 
 Jupiter is a schedule builder for UMD students that intelligently generates and ranks potential schedules based on professor ratings and average GPA, while also removing duplicates, and ensuring that there are no time conflicts. Our application was developed specifically for a mobile device because it allows Apple Calendar synchronization, which means that the Jupiter will automatically sync a potential schedule with the user’s iPhone calendar. Once the user syncs a schedule, their calendar will have recurring meetings set up every single day for each course they selected at their proper time until the end of the semester.

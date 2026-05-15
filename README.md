@@ -7,15 +7,22 @@ I'm Surmud Jamil, a software engineer. Feel free to connect with me on linkedin:
 Played around with an LLM / jupyter to analyze my strava data training for both the New York City / Tokyo Marathons!
 https://github.com/surmud/strava/blob/main/ANALYSIS_FINDINGS.md 
 
+### NBA Hall of Fame Predictor
+My friends and I used basketball statistics to predict NBA Hall of Famers with 85% accuracy. Are hall of famers more physical than today's players? Do today's players shoot more? We answer these questions in our jupyter notebook. To do this project, we needed to parse, scrape, and clean NBA basketball data from several different sources to be able to conduct our analysis. 
+- Check out published notebook at https://surmud.github.io/NBA-Hall-of-fame-predictor/ 
+- Check out the repository at https://github.com/surmud/NBA-Hall-of-fame-predictor
+
+
+### Eigenface Recognition
+In this project, my teammate and I implemented principal component analysis, which is a dimensionality reduction technique used in machine learning, to recognize images of faces with over 85% accuracy. We followed a case study based on an academic paper written by Turk and Pentland at https://www.face-rec.org/algorithms/PCA/jcn.pdf. This project was very math-heavy and required us to implement a lot of linear algebra in python, but we were able to gain a lot of valuable experience with the numpy library by doing this.
+
 ### Jupiter: UMD Schedule Builder
 
 Jupiter is a schedule builder for UMD students that intelligently generates and ranks potential schedules based on professor ratings and average GPA, while also removing duplicates, and ensuring that there are no time conflicts. Our application was developed specifically for a mobile device because it allows Apple Calendar synchronization, which means that the Jupiter will automatically sync a potential schedule with the user’s iPhone calendar. Once the user syncs a schedule, their calendar will have recurring meetings set up every single day for each course they selected at their proper time until the end of the semester.
 - Check out the repository at https://github.com/surmud/jupiter
 
-### NBA Hall of Fame Predictor
-My friends and I used basketball statistics to predict NBA Hall of Famers with 85% accuracy. Are hall of famers more physical than today's players? Do today's players shoot more? We answer these questions in our jupyter notebook. To do this project, we needed to parse, scrape, and clean NBA basketball data from several different sources to be able to conduct our analysis. 
-- Check out published notebook at https://surmud.github.io/NBA-Hall-of-fame-predictor/ 
-- Check out the repository at https://github.com/surmud/NBA-Hall-of-fame-predictor
+Note: This repository is private since it was a course project. Contact me if you'd like to see it. 
+- https://github.com/surmud/Eigenface_Recognition
 
 
 ### Rate My UMD Landlord
@@ -23,16 +30,6 @@ Ever had a terrible landlord? This is your chance to vent. This is a web applica
 
 - Repository: https://github.com/surmud/rate-my-umd-landlord
 - Web Application: https://ratemyumdlandlord.herokuapp.com
-
-
-### Eigenface Recognition
-In this project, my teammate and I implemented principal component analysis, which is a dimensionality reduction technique used in machine learning, to recognize images of faces with over 85% accuracy. We followed a case study based on an academic paper written by Turk and Pentland at https://www.face-rec.org/algorithms/PCA/jcn.pdf. This project was very math-heavy and required us to implement a lot of linear algebra in python, but we were able to gain a lot of valuable experience with the numpy library by doing this.
-
-Note: This repository is private since it was a course project. Contact me if you'd like to see it. 
-- https://github.com/surmud/Eigenface_Recognition
-
-
-
 
 <!---
 surmud/surmud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
